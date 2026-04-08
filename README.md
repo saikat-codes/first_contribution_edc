@@ -45,5 +45,5 @@ Before submitting, make sure:
 - [ ] Your commit message follows the format: add: YourName git-practice screenshots  
 ## **🔗 Platform**  
 [git-practice.com](https://git-practice.com/ "https://git-practice.com/") — an interactive, browser-based Git learning platform with scenario-driven challenges.  
-*Made with 💻 by the Web Development team — EDC NIT Durgapur*  
+
    
